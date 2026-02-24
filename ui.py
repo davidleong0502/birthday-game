@@ -180,7 +180,7 @@ def render_scene():
         # Photo gallery
         available = [p for p in PHOTOS if os.path.exists(p)]
         if available:
-            cols = st.columns(len(available))
+            cols = st.columns(2)
             for col, photo in zip(cols, available):
                 with col:
                     st.image(photo, use_container_width=True)
