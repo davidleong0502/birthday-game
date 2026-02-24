@@ -29,7 +29,7 @@ PERSONAL_MESSAGE = (
     "Love,\nDavid"
 )
 
-COUPON = "Infinite kisses — redeemable any time, no expiry."
+COUPON = "Infinite kisses — redeemable any time, no expiry hehe"
 # ─────────────────────────────────────────────────────────────────────────────
 
 
