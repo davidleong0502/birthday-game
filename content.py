@@ -5,7 +5,28 @@ from models import Scene, Choice
 # ── YOUR PERSONAL MESSAGE ─────────────────────────────────────────────────────
 # Edit this before you give her the app!
 PERSONAL_MESSAGE = (
-    "Write your message to Sern here."
+    "Dear Sern,\n\n"
+    "Happy birthday! Although we are miles apart this day remains so special to me. "
+    "I have missed you so much especially since you left for exchange but I'm always "
+    "thinking about you hehe. The past 2 weeks in particular have been rough for me "
+    "due to the passing of my grandpa etc. Thanks for checking in on me even when you "
+    "were out and about. It means so much to me.\n\n"
+    "I was especially touched by you celebrating my birthday hehe. The Thai food treat "
+    "and of course buying the scooter for me.\n\n"
+    "This website is my way of thanking you hehe. It contains small little inside jokes "
+    "and some of my favorite photos of us 💓 and our friends.\n\n"
+    "I did code this with some help from my trusty friend, Claude as my skills aren't "
+    "too advanced yet. But I am thinking that as I improve and generate more ideas we "
+    "can make this website into a little blog and a repository of our moments together.\n\n"
+    "I love you so much Sern and I hope you love this website. It will be with you everywhere hehe.\n\n"
+    "Most importantly I pray God will continue to watch over you and keep you safe hehe.\n\n"
+    "This Bible verse makes me think of you and fills me with gratitude for having a "
+    "loving and supportive partner like you hehe.\n\n"
+    "Ecclesiastes 4:9-10\n"
+    "Two are better than one: they earn a far greater reward for their toil.\n"
+    "And if one should fall, his companion will help him up.\n\n"
+    "Have a great birthday Sern and always remember that I love you so much 🥰\n\n"
+    "Love,\nDavid"
 )
 
 COUPON = "Infinite kisses — redeemable any time, no expiry."
